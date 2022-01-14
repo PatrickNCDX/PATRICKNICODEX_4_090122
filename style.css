@@ -692,7 +692,7 @@ label,
 }
 
 p {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 .tight-width-whitespace {
@@ -785,8 +785,8 @@ h4 {
     background-color: #ffffff;
 }
 
-.bgc-dark-slate-blue {
-    background-color: #364577;
+.bgc-dark-slate-orange {
+    background-color: #f3976c;
 }
 
 .bgc-atomic-tangerine {
@@ -824,8 +824,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #364577;
-    border-color: #364577;
+    color: #f3976c;
+    border-color: #f3976c;
 }
 
 .bg-dots-bg {
